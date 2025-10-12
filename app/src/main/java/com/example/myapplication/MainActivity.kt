@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         //some test
         //some branch
         //2
-
+        //3
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
