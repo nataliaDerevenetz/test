@@ -15,10 +15,9 @@ import com.example.myapplication.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        //1.1
-        //2
+        //1
+        //22
         //3
-        //4
         //5
         //6
         //newbranch 7
