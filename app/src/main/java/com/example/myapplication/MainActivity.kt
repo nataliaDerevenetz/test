@@ -15,7 +15,7 @@ import com.example.myapplication.ui.theme.MyApplicationTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
-        //1
+        //1.1
         //2
         //3
         //4
