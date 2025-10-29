@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
         //newbranch
         //new b
         //9
-        //000
+        //100
         //10
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
