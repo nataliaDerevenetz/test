@@ -27,6 +27,7 @@ class MainActivity : ComponentActivity() {
         //7
         //8
         //9
+        //9.1
         //10
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
