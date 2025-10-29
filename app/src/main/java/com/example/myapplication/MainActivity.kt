@@ -24,8 +24,6 @@ class MainActivity : ComponentActivity() {
         //5
         //6
         //newbranch 7
-        //7
-        //8
         //9
         //9.1
         //10
