@@ -20,11 +20,15 @@ class MainActivity : ComponentActivity() {
         //4
         //5
         //6
-        //newbranch
-        //new b
+        //7
+        //8
         //9
-        //100
-        //10
+        ///
+        ////
+        ///////
+        //////
+        /////
+        ////
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
