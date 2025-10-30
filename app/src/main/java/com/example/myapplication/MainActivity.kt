@@ -25,6 +25,8 @@ class MainActivity : ComponentActivity() {
         //9
         //100
         //10
+        ///
+        //kjijohihi
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContent {
